@@ -1,0 +1,9 @@
+id;text;result;
+1;This is a sample text provided for training purposes. In this text the goal is to retrieve the following phone number: 123456. Its interesting because the phone number can be retrieved using various different techniques and approaches. Very curious also if the retrieved phone number will be valid.;123456;
+2;Another sample text with a phone number. Phone number: 432562143 ;432562143;
+3;phone number: 654321;654321;
+4;not a phone number: 23456211;23456211;
+5;just a number: 123432;-;
+6;text without a phone number;-;
+7;"";-;
+8;phone number: 654321, and another one, phone number: 43256123;654321,43256123;

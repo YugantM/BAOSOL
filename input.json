@@ -1,0 +1,111 @@
+{ 
+"name": "Sales: Cold Call (05/2021) (ungerade Tage)", "items": [ 
+{ 
+"name": "Vorbereitung: Taktik", 
+"answers": [ 
+{ 
+"text": "Direkte Durchwahl / Handy", 
+"count": 22, 
+"totalImportance": 110, 
+"rel_count": 0.1176 
+}, 
+{ 
+"text": "Zentrale", 
+"count": 9, 
+"totalImportance": 45, 
+"rel_count": 0.0481 
+}, 
+{ 
+"text": "Unbekannt",
+"count": 1, 
+"totalImportance": 5, 
+"rel_count": 0.0053 
+} 
+], 
+"total_answers": 32, 
+"rel_answer": 0.1657754010695187, 
+"objections": [ 
+{ 
+"text": "Schicken Sie Unterlagen", 
+"count": 1, 
+"rel_count": 0.0053 
+} 
+], 
+"total_objections": 1, 
+"rel_objection": 0.0 
+}, 
+{ 
+"name": "Zentrale", 
+"answers": [], 
+"total_answers": 0, 
+"rel_answer": 0.0, 
+"objections": [ 
+{ 
+"text": "Schicken Sie Unterlagen", 
+"count": 2, 
+"rel_count": 0.0107 
+}, 
+{ 
+"text": "Haben schon eine Lösung", 
+"count": 1, 
+"rel_count": 0.0053 
+}, 
+{ 
+"text": "Kein Bedarf / kein Interesse", "count": 1, 
+"rel_count": 0.0053 
+} 
+],
+"total_objections": 4, 
+"rel_objection": 0.0 
+}, 
+{ 
+"name": "Pains", 
+"answers": [ 
+{ 
+"text": "Dokumentation", 
+"count": 8, 
+"totalImportance": 40, 
+"rel_count": 0.0428 
+}, 
+{ 
+"text": "Vor- und Einwände", 
+"count": 6, 
+"totalImportance": 30, 
+"rel_count": 0.0321 
+}, 
+{ 
+"text": "Zielerreichung", 
+"count": 6, 
+"totalImportance": 30, 
+"rel_count": 0.0321 
+} 
+], 
+"total_answers": 20, 
+"rel_answer": 0.0427807486631016, 
+"objections": [ 
+{ 
+"text": "Haben schon eine Lösung", 
+"count": 4, 
+"rel_count": 0.0214 
+}, 
+{ 
+"text": "Schicken Sie Unterlagen", 
+"count": 3, 
+"rel_count": 0.016 
+}, 
+{
+"text": "Individuelle Gespräche", 
+"count": 2, 
+"rel_count": 0.0107 
+}, 
+{ 
+"text": "Kein Bedarf / kein Interesse", 
+"count": 2, 
+"rel_count": 0.0107 
+} 
+], 
+"total_objections": 11, 
+"rel_objection": 0.0 
+} 
+] 
+}
